@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi! I'm Bernardo Aires 🙋‍♂️
 
-<!--
-**BernardoAIO/BernardoAIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardoaires)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bernardoairesdeoliveira)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Aires's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoaio&show_icons=true&theme=tokyonight)
+
+### 🚀 Skills
+<div>
+  <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+</div><br/>
+
+If you need, contact me on LinkedIn 😉
